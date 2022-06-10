@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-* 北京大学计算机学院教授，研究领域：软件工程，软件数据分析，开源数字社会学
+北京大学计算机学院教授，研究领域：软件工程，软件数据分析，开源数字社会学
 
 Welcome! I'm a Tenured Professor in [PKU](https://www.pku.edu.cn/)'s [School of Computer Science](https://cs.pku.edu.cn/) and a member of the [Software Engineering Institute](http://www.sei.pku.edu.cn/). I lead [Open Source Software Data Analytics Lab](https://osslab-pku.github.io/) working on software engineering, software data anlytics, and open source digital sociology.
 
@@ -30,20 +30,20 @@ Please refer to the [Open Source Software Data Analytics Lab People page](https:
 
 Academic Services
 =====================
-- 2023	ICSE PC member;
+- 2023	ICSE PC member;  
   ICSE-AE PC Co-Chair
 - 2022	ESEC/FSE, ICPC, ICSE-NIER, ESEM PC member;
-- 2021	ESEC/FSE, ICSE-NIER, ICSE-AE, ICPC, MSR, ASE PC member;
+- 2021	ESEC/FSE, ICSE-NIER, ICSE-AE, ICPC, MSR, ASE PC member;  
   FSE-Industry Track PC Co-Chair
-- 2020	ICSE, MSR, ESEM, ESEC/FSE-V&R, ASE PC member;
+- 2020	ICSE, MSR, ESEM, ESEC/FSE-V&R, ASE PC member;  
   SANER PC Co-Chair
 - 2019	ICSE, ASE, ICSE-NIER, ICSME, ESEM, MSR-Awards PC member
-- 2018	ICSE, MSR, ESEM, CHASE, ASE Tool Demo PC member34 
+- 2018	ICSE, MSR, ESEM, CHASE, ASE Tool Demo PC member;   
   ICSME-NIER PC Co-Chair
 - 2017	ICSE NIER, MSR, APSEC, CHASE, EASE PC member
 - 2016	MSR, FSE-VaR, ICSE-Demos, CHASE PC member
 - 2015	EASE, OpenSym, CHASE PC member
-- 2014	ESEM, CHASE PC member;
+- 2014	ESEM, CHASE PC member;  
   FSE-Demos, Internetware PC Co-Chair
 - 2013	ESEM PC member
 - 2011	SCORE PC member
