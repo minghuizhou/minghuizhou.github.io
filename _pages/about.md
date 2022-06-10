@@ -8,11 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I' am a Tenured Professor in [PKU](https://www.pku.edu.cn/)'s [School of Computer Science](https://cs.pku.edu.cn/) and a member of the [Software Engineering Institute](http://www.sei.pku.edu.cn/). I lead [Open Source Software Data Analytics Lab](https://osslab-pku.github.io/) working on empirical software engineering and open source ecosystems.
+* 北京大学计算机学院教授，研究领域：软件工程，软件数据分析，开源数字社会学
+
+Welcome! I'm a Tenured Professor in [PKU](https://www.pku.edu.cn/)'s [School of Computer Science](https://cs.pku.edu.cn/) and a member of the [Software Engineering Institute](http://www.sei.pku.edu.cn/). I lead [Open Source Software Data Analytics Lab](https://osslab-pku.github.io/) working on software engineering, software data anlytics, and open source digital sociology.
+
 
 Research Interest
 ===================
-I'm interested in observing software repositories and measuring how developers live their lives with the hope that could help understand and control large complex software systems, society, and universe. I'm looking for students who are interested in mining software engineering data, or learning data analysis techniques, or conducting research on digital archeology/sociology, or making the world a better place with small steps, to work with.
+I'm interested in 
+using data recorded in vast open source and commercial software repositories to investigate how people develop software, and how to invent intelligent techniques to help control large complex software systems.
+My research subjects range from individual learning, group collaboration, and ecosystem sustainability, along with complex dependencies between software coined as software supply chain. 
+My team has a much larger scope of interest, see [Open Source Software Data Analytics Lab](https://osslab-pku.github.io/).
 
 Publications
 =====================
@@ -24,17 +30,31 @@ Please refer to the [Open Source Software Data Analytics Lab People page](https:
 
 Academic Services
 =====================
-- 2022 ICSE, ESEC/FSE PC member
-- 2021 ICSE, ESEC/FSE PC member
-- 2020 ICSE, ASE, MSR, ESEM PC member; SANER PC Co-Chair
-- 2019 ICSE, ASE, MSR-Awards, MSR-DataShowcase, ESEM, ICSME, EASE PC member
-- 2018 ICSE, MSR, ESEM, CHASE, ASE Tool Demo PC member; ICSME-NIER PC Co-Chair
-- 2017 ICSE NIER, MSR, APSEC, CHASE, EASE PC member
-- 2016 MSR, FSE-VaR, ICSE-Demos, CHASE PC member
-- 2015 EASE, OpenSym, CHASE PC member
-- 2014 FSE-Demos, Internetware PC Co-Chair; ESEM, CHASE PC member
-- 2013 ESEM PC member
-- 2011 ICSE-SCORE PC member
+- 2023	ICSE PC member;
+  ICSE-AE PC Co-Chair
+- 2022	ESEC/FSE, ICPC, ICSE-NIER, ESEM PC member;
+- 2021	ESEC/FSE, ICSE-NIER, ICSE-AE, ICPC, MSR, ASE PC member;
+  FSE-Industry Track PC Co-Chair
+- 2020	ICSE, MSR, ESEM, ESEC/FSE-V&R, ASE PC member;
+  SANER PC Co-Chair
+- 2019	ICSE, ASE, ICSE-NIER, ICSME, ESEM, MSR-Awards PC member
+- 2018	ICSE, MSR, ESEM, CHASE, ASE Tool Demo PC member34 
+  ICSME-NIER PC Co-Chair
+- 2017	ICSE NIER, MSR, APSEC, CHASE, EASE PC member
+- 2016	MSR, FSE-VaR, ICSE-Demos, CHASE PC member
+- 2015	EASE, OpenSym, CHASE PC member
+- 2014	ESEM, CHASE PC member;
+  FSE-Demos, Internetware PC Co-Chair
+- 2013	ESEM PC member
+- 2011	SCORE PC member
+
+Serve editor board for international journals including EMSE, JSS, IST and JSME.
+Reviewer for IEEE Transactions on Software Engineering, ACM Transactions On Software Engineering and Methodology, ACM Computing Surveys, Transactions on Services Computing, etc.
+
+中国计算机学会CCF开源发展委员会（https://www.ccf.org.cn/kyfzwyh/）副主任。
+
+木兰开源社区（https://portal.mulanos.cn）TOC成员。
+
 
 Projects
 ========================
@@ -50,14 +70,15 @@ Awards
 ==================
 - 2018年获国家杰青项目资助
 - 2015年获中创软件人才奖
-- 2014年湖南省技术发明一等奖（排名5）
+- 2015年国家技术发明二等奖
+- 2014年湖南省技术发明一等奖
 - 2013年北京大学黄廷芳-信和青年杰出学者
 - 2013年第一届北京大学产学研合作奖
 - 2012年教育部新世纪优秀人才
 - 2012年国际会议COMPSAC 最佳论文奖
 - 2010年ACM SIGSOFT（FSE 2010）杰出论文奖
-- 2009年中日韩开源大赛优秀奖（排名2）
-- 2008年国家技术发明二等奖暨2007年教育部技术发明一等奖（排名5）
+- 2009年中日韩开源大赛优秀奖
+- 2008年国家技术发明二等奖暨2007年教育部技术发明一等奖
 
 Talks
 =================
@@ -76,12 +97,10 @@ Panelist. 第一届大数据科学与工程国际学术研讨会, 大数据工�
 
 Teaching
 ===================
-- 开源软件的量化分析   
-2020春夏学期
-- 操作系统(A)   
+- 开源软件开发（本科）
+2021/2022 秋冬学期
+- 开源软件的量化分析（研究生）   
+2020/2021/2022（英文）春夏学期
+- 操作系统(A)  （本科） 
 2016/2017/2018/2019春夏学期
-- 计算机系统导论（小班课）   
-2016/2017/2018秋冬学期
-- 高级软件工程(Advanced Software Engineering)   
-2012春夏学期   
-[软件互操作]((https://minghuizhou.github.io/files/chap4.pdf)) [数字考古学简介]((https://minghuizhou.github.io/files/20120502-introductionESE.pdf))
+- 计算机系统导论（本科小班课）   
