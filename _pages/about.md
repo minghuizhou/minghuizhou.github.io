@@ -51,9 +51,9 @@ Academic Services
 Serve editor board for international journals including EMSE, JSS, IST and JSME.
 Reviewer for IEEE Transactions on Software Engineering, ACM Transactions On Software Engineering and Methodology, ACM Computing Surveys, Transactions on Services Computing, etc.
 
-中国计算机学会CCF开源发展委员会（https://www.ccf.org.cn/kyfzwyh/）副主任。
+[中国计算机学会CCF开源发展委员会]（https://www.ccf.org.cn/kyfzwyh/）副主任。
 
-木兰开源社区（https://portal.mulanos.cn）TOC成员。
+[木兰开源社区]（https://portal.mulanos.cn）TOC成员。
 
 
 Projects
@@ -97,7 +97,7 @@ Awards
 
 Teaching
 ===================
-- 开源软件开发（本科） 2021/2022 秋冬学期 (https://github.com/osslab-pku/OSSDevelopment/)
+- [开源软件开发（本科）](https://github.com/osslab-pku/OSSDevelopment/) 2021/2022 秋冬学期 
 - 开源软件的量化分析（研究生，英文）  2022 春夏学期
 - 开源软件的量化分析（研究生）  2020/2021 春夏学期
 - 操作系统(A)  （本科） 2016/2017/2018/2019春夏学期
