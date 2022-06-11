@@ -80,26 +80,25 @@ Awards
 - 2009年中日韩开源大赛优秀奖
 - 2008年国家技术发明二等奖暨2007年教育部技术发明一等奖
 
-Talks
-=================
-- 开源生态系统的可持续性：现状和挑战   
-中国软件质量大会（Tid 2017）-软件工程研究与实践,2017年7月19日 北京.
-- 软件数字考古学-- 数据驱动的软件度量   
-中国计算机学会《学科前沿讲习班》,CCF ADL，2017年1月6-8日 北京.
-- Studying Open Source Ecosystems.   
-AWASE'16. March 20, 2016. Nara, Japan.
-- [软件微过程的挖掘和分析](https://minghuizhou.github.io/files/20141122-CCF-final.pdf)   
-中国计算机学会《学科前沿讲习班》,CCF ADL，2014年11月22-23日 北京.
-- [Learning and Researching with Open Source Software](https://minghuizhou.github.io/files/20121015-IWSO-NUAA.pdf)   
-Invited Speech. IWSO 2012 (International Workshop on SCILAB&OW2 Open Source Software Contest), NUAA, China, 15 Oct, 2012.
-- [软件工程中的大规模数据(Large-scale data in software engineering)](https://minghuizhou.github.io/files/20120913-bigdatapanelist-BUAA.pdf)   
-Panelist. 第一届大数据科学与工程国际学术研讨会, 大数据工程论坛. BUAA, China, 13 Sep, 2012.
+[//]:Talks
+[//]:=================
+[//]:- 开源生态系统的可持续性：现状和挑战   
+[//]:中国软件质量大会（Tid 2017）-软件工程研究与实践,2017年7月19日 北京.
+[//]:- 软件数字考古学-- 数据驱动的软件度量   
+[//]:中国计算机学会《学科前沿讲习班》,CCF ADL，2017年1月6-8日 北京.
+[//]:- Studying Open Source Ecosystems.   
+[//]:AWASE'16. March 20, 2016. Nara, Japan.
+[//]:- [软件微过程的挖掘和分析](https://minghuizhou.github.io/files/20141122-CCF-final.pdf)   
+[//]:中国计算机学会《学科前沿讲习班》,CCF ADL，2014年11月22-23日 北京.
+[//]:- [Learning and Researching with Open Source Software](https://minghuizhou.github.io/files/20121015-IWSO-NUAA.pdf)   
+[//]:Invited Speech. IWSO 2012 (International Workshop on SCILAB&OW2 Open Source Software Contest), NUAA, China, 15 Oct, 2012.
+[//]:- [软件工程中的大规模数据(Large-scale data in software engineering)](https://minghuizhou.github.io/files/20120913-bigdatapanelist-BUAA.pdf)   
+[//]:Panelist. 第一届大数据科学与工程国际学术研讨会, 大数据工程论坛. BUAA, China, 13 Sep, 2012.
 
 Teaching
 ===================
 - 开源软件开发（本科） 2021/2022 秋冬学期
 - 开源软件的量化分析（研究生，英文）  2022 春夏学期
 - 开源软件的量化分析（研究生）  2020/2021 春夏学期
-- 操作系统(A)  （本科） 
-2016/2017/2018/2019春夏学期
+- 操作系统(A)  （本科） 2016/2017/2018/2019春夏学期
 - 计算机系统导论（本科小班课）   
