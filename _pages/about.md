@@ -31,7 +31,7 @@ Please refer to the [Open Source Software Data Analytics Lab People page](https:
 Academic Services
 =====================
 - 2023	ICSE PC member;    
--       ICSE-AE PC Co-Chair
+        ICSE-AE PC Co-Chair
 - 2022	ESEC/FSE, ICPC, ICSE-NIER, ESEM PC member
 - 2021	ESEC/FSE, ICSE-NIER, ICSE-AE, ICPC, MSR, ASE PC member;  
         FSE-Industry Track PC Co-Chair
@@ -68,16 +68,17 @@ Projects
 
 Awards
 ==================
+- 2022 ACM SIGSOFT (ICPC 2022) Distingushied Paper
 - 2018年获国家杰青项目资助
-- 2015年获中创软件人才奖
+- 2015年中创软件人才奖
 - 2015年国家技术发明二等奖
 - 2014年湖南省技术发明一等奖
 - 2013年北京大学黄廷芳-信和青年杰出学者
 - 2013年第一届北京大学产学研合作奖
 - 2012年教育部新世纪优秀人才
 - 2012年国际会议COMPSAC 最佳论文奖
-- 2010年ACM SIGSOFT（FSE 2010）杰出论文奖
-- 2009年中日韩开源大赛优秀奖
+- 2010 ACM SIGSOFT (FSE 2010) Distingushied Paper
+- 2009年中日韩开源大赛优秀奖(PKUAS)
 - 2008年国家技术发明二等奖暨2007年教育部技术发明一等奖
 
 [//]:Talks
