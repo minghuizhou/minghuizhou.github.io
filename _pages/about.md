@@ -30,8 +30,8 @@ Please refer to the [Open Source Software Data Analytics Lab People page](https:
 
 Academic Services
 =====================
-- 2023	ICSE PC member;  
-        -ICSE-AE PC Co-Chair
+- 2023	ICSE PC member;    
+-       ICSE-AE PC Co-Chair
 - 2022	ESEC/FSE, ICPC, ICSE-NIER, ESEM PC member
 - 2021	ESEC/FSE, ICSE-NIER, ICSE-AE, ICPC, MSR, ASE PC member;  
         FSE-Industry Track PC Co-Chair
@@ -97,8 +97,8 @@ Awards
 
 Teaching
 ===================
-- [开源软件开发（本科）](https://github.com/osslab-pku/OSSDevelopment/) 2021/2022 秋冬学期 
-- 开源软件的量化分析（研究生，英文）  2022 春夏学期
-- 开源软件的量化分析（研究生）  2020/2021 春夏学期
-- 操作系统(A)  （本科） 2016/2017/2018/2019春夏学期
+- [开源软件开发（本科）](https://github.com/osslab-pku/OSSDevelopment/): 2021/2022 秋冬学期 
+- 开源软件的量化分析（研究生，英文）: 2022 春夏学期
+- 开源软件的量化分析（研究生）: 2020/2021 春夏学期
+- 操作系统(A)（本科）: 2016/2017/2018/2019春夏学期
 - 计算机系统导论（本科小班课）   
