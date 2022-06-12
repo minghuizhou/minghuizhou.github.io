@@ -16,8 +16,8 @@ I'm a Tenured Professor of [PKU](https://www.pku.edu.cn/)'s [School of Computer 
 Research Interest
 ===================
 I'm interested in 
-using data recorded in vast open source and commercial software repositories to investigate how people develop software, and how to invent intelligent techniques to help control large complex software systems.
-My research subjects range from individual learning, group collaboration, and ecosystem sustainability, along with complex dependencies between software coined as software supply chain. 
+using data recorded in vast open source and commercial software repositories to investigate how people develop software, and how to invent intelligent techniques/systems to help control large complex software systems.
+My research subjects include individual learning, group collaboration, and ecosystem sustainability, along with complex dependencies between software coined as software supply chain. 
 My team has a much larger scope of interest, see [Open Source Software Data Analytics Lab](https://osslab-pku.github.io/).
 
 Publications
