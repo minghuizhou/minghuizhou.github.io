@@ -30,30 +30,25 @@ Please refer to the [Open Source Software Data Analytics Lab People page](https:
 
 Academic Services
 =====================
-- 2023	ICSE PC member;    
-        ICSE-AE PC Co-Chair
+- 2023	ICSE PC member;  ICSE-AE PC Co-Chair
 - 2022	ESEC/FSE, ICPC, ICSE-NIER, ESEM PC member
-- 2021	ESEC/FSE, ICSE-NIER, ICSE-AE, ICPC, MSR, ASE PC member;  
-        FSE-Industry Track PC Co-Chair
-- 2020	ICSE, MSR, ESEM, ESEC/FSE-V&R, ASE PC member;  
-        SANER PC Co-Chair
+- 2021	ESEC/FSE, ICSE-NIER, ICSE-AE, ICPC, MSR, ASE PC member;  FSE-Industry Track PC Co-Chair
+- 2020	ICSE, MSR, ESEM, ESEC/FSE-V&R, ASE PC member;  SANER PC Co-Chair
 - 2019	ICSE, ASE, ICSE-NIER, ICSME, ESEM, MSR-Awards PC member
-- 2018	ICSE, MSR, ESEM, CHASE, ASE Tool Demo PC member;   
-        ICSME-NIER PC Co-Chair
+- 2018	ICSE, MSR, ESEM, CHASE, ASE Tool Demo PC member;   ICSME-NIER PC Co-Chair
 - 2017	ICSE NIER, MSR, APSEC, CHASE, EASE PC member
 - 2016	MSR, FSE-VaR, ICSE-Demos, CHASE PC member
 - 2015	EASE, OpenSym, CHASE PC member
-- 2014	ESEM, CHASE PC member;  
-        FSE-Demos, Internetware PC Co-Chair
+- 2014	ESEM, CHASE PC member;  FSE-Demos, Internetware PC Co-Chair
 - 2013	ESEM PC member
 - 2011	SCORE PC member
 
 Serve editor board for international journals including EMSE, JSS, IST and JSME.
 Reviewer for IEEE Transactions on Software Engineering, ACM Transactions On Software Engineering and Methodology, ACM Computing Surveys, Transactions on Services Computing, etc.
 
-[中国计算机学会CCF开源发展委员会]（https://www.ccf.org.cn/kyfzwyh/）副主任。
+[中国计算机学会CCF开源发展委员会](https://www.ccf.org.cn/kyfzwyh/) 副主任。
 
-[木兰开源社区]（https://portal.mulanos.cn）TOC成员。
+[木兰开源社区](https://portal.mulanos.cn) TOC成员。
 
 
 Projects
