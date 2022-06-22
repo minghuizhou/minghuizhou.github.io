@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[北京大学计算机学院](https://cs.pku.edu.cn/)教授，研究领域：软件工程，软件数据分析，开源数字社会学
+[北京大学计算机学院](https://cs.pku.edu.cn/)教授，研究领域：软件工程，数据挖掘，智能推荐，开源生态，（开源数字社会学）
 
 I'm a Tenured Professor of [PKU](https://www.pku.edu.cn/)'s [School of Computer Science](https://cs.pku.edu.cn/),  [Software Engineering Institute](http://www.sei.pku.edu.cn/). I lead [Open Source Software Data Analytics Lab](https://osslab-pku.github.io/) working on software engineering, software data anlytics, and open source digital sociology.
 
