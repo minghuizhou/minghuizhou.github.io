@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-[北京大学计算机学院](https://cs.pku.edu.cn/)教授，研究领域：软件工程，数据挖掘，智能推荐，开源生态，（开源数字社会学）
+[北京大学计算机学院](https://cs.pku.edu.cn/)教授，研究领域：软件工程，数据挖掘，智能系统，开源生态（开源数字社会学）
 
-I'm a Tenured Professor of [PKU](https://www.pku.edu.cn/)'s [School of Computer Science](https://cs.pku.edu.cn/),  [Software Engineering Institute](http://www.sei.pku.edu.cn/). I lead [Open Source Software Data Analytics Lab](https://osslab-pku.github.io/) working on software engineering, software data anlytics, and open source digital sociology.
+I'm a Tenured Professor of [PKU](https://www.pku.edu.cn/)'s [School of Computer Science](https://cs.pku.edu.cn/),  [Software Engineering Institute](http://www.sei.pku.edu.cn/). I lead [Open Source Software Data Analytics Lab](https://osslab-pku.github.io/) working on software engineering, software data anlytics, intelligent recommender, and open source digital sociology.
 
 
 Research Interest
@@ -28,10 +28,10 @@ Students
 =====================
 Please refer to the [Open Source Software Data Analytics Lab People page](https://osslab-pku.github.io/people/)
 
-Academic Services
+Services
 =====================
 - 2023	ICSE PC member;  ICSE-AE PC Co-Chair
-- 2022	ESEC/FSE, ICPC, ICSE-NIER, ESEM PC member
+- 2022	ESEC/FSE, ESEC/FSE Doctoral Symposium, ICPC, ICSE-NIER, ESEM PC member
 - 2021	ESEC/FSE, ICSE-NIER, ICSE-AE, ICPC, MSR, ASE PC member;  FSE-Industry Track PC Co-Chair
 - 2020	ICSE, MSR, ESEM, ESEC/FSE-V&R, ASE PC member;  SANER PC Co-Chair
 - 2019	ICSE, ASE, ICSE-NIER, ICSME, ESEM, MSR-Awards PC member
