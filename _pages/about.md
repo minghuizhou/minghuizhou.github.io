@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[北京大学计算机学院](https://cs.pku.edu.cn/)教授，研究领域：软件工程，数据挖掘，智能系统，开源生态（开源数字社会学）
+[北京大学计算机学院](https://cs.pku.edu.cn/)教授，研究领域：软件工程，数据挖掘，智能系统，开源软件供应链和生态（开源数字社会学）
 
 I'm a Tenured Professor of [PKU](https://www.pku.edu.cn/)'s [School of Computer Science](https://cs.pku.edu.cn/),  [Software Engineering Institute](http://www.sei.pku.edu.cn/). I lead [Open Source Software Data Analytics Lab](https://osslab-pku.github.io/) working on software engineering, software data anlytics, intelligent recommender, and open source digital sociology.
 
@@ -17,12 +17,20 @@ Research Interest
 ===================
 I'm interested in 
 using data recorded in vast open source and commercial software repositories to investigate how people develop software, and how to invent intelligent techniques/systems to help control large complex software systems.
-My research subjects include individual learning, group collaboration, and ecosystem sustainability, along with complex dependencies between software coined as software supply chain. 
-My team has a much larger scope of interest, see [Open Source Software Data Analytics Lab](https://osslab-pku.github.io/).
+<!--My research subjects include individual learning, group collaboration, and ecosystem sustainability, along with complex dependencies between software coined as software supply chain. 
+My team has a much larger scope of interest, see [Open Source Software Data Analytics Lab](https://osslab-pku.github.io/). -->
 
 Publications
 =====================
 Please refer to the [Open Source Software Data Analytics Lab Publication page](https://osslab-pku.github.io/publications/)
+
+Teaching
+===================
+- [开源软件开发（本科）](https://github.com/osslab-pku/OSSDevelopment/): 2021/2022 秋冬学期 
+- 开源软件的量化分析（研究生，英文）: 2022 春夏学期
+- 开源软件的量化分析（研究生）: 2020/2021 春夏学期
+- 操作系统(A)（本科）: 2016/2017/2018/2019春夏学期
+- 计算机系统导论（本科小班课）   
 
 Students
 =====================
@@ -91,10 +99,3 @@ Awards
 [//]:- [软件工程中的大规模数据(Large-scale data in software engineering)](https://minghuizhou.github.io/files/20120913-bigdatapanelist-BUAA.pdf)   
 [//]:Panelist. 第一届大数据科学与工程国际学术研讨会, 大数据工程论坛. BUAA, China, 13 Sep, 2012.
 
-Teaching
-===================
-- [开源软件开发（本科）](https://github.com/osslab-pku/OSSDevelopment/): 2021/2022 秋冬学期 
-- 开源软件的量化分析（研究生，英文）: 2022 春夏学期
-- 开源软件的量化分析（研究生）: 2020/2021 春夏学期
-- 操作系统(A)（本科）: 2016/2017/2018/2019春夏学期
-- 计算机系统导论（本科小班课）   
