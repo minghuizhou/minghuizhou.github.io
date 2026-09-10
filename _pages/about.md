@@ -27,8 +27,8 @@ Please refer to the [Open Source Software Data Analytics Lab Publication page](h
 
 Teaching
 ===================
-- [开源软件开发（本科）](https://github.com/osslab-pku/OSSDevelopment/): 2021/2022/2023 秋冬学期 
-- 开源软件的量化分析（研究生，英文）: 2022/2023 春夏学期
+- [开源软件开发（本科）](https://github.com/osslab-pku/OSSDevelopment/): 2021/2022/2023/2024/2025 秋冬学期 
+- 开源软件的量化分析（研究生，英文）: 2022/2023/2024/2025/2026 春夏学期
 - 开源软件的量化分析（研究生）: 2020/2021 春夏学期
 - 操作系统(A)（本科）: 2016/2017/2018/2019春夏学期
 - 计算机系统导论（本科小班课）   
@@ -39,25 +39,37 @@ Please refer to the [Open Source Software Data Analytics Lab People page](https:
 
 Services
 =====================
-- 2024  ASE PC Co-Chair; MSR-FOSS Award PC Co-Chair; ICSE PC member 
-- 2023	ICSE PC member;  ICSE-AE PC Co-Chair; ASE-Tool PC Co-Chair; MSR Award Committee Member 
-- 2022	ESEC/FSE, ESEC/FSE Doctoral Symposium, ICPC, ICSE-NIER, ESEM PC member
-- 2021	ESEC/FSE, ICSE-NIER, ICSE-AE, ICPC, MSR, ASE PC member;  FSE-Industry Track PC Co-Chair
-- 2020	ICSE, MSR, ESEM, ESEC/FSE-V&R, ASE PC member;  SANER PC Co-Chair
-- 2019	ICSE, ASE, ICSE-NIER, ICSME, ESEM, MSR-Awards PC member
-- 2018	ICSE, MSR, ESEM, CHASE, ASE Tool Demo PC member;   ICSME-NIER PC Co-Chair
-- 2017	ICSE NIER, MSR, APSEC, CHASE, EASE PC member
-- 2016	MSR, FSE-VaR, ICSE-Demos, CHASE PC member
-- 2015	EASE, OpenSym, CHASE PC member
-- 2014	ESEM, CHASE PC member;  FSE-Demos, Internetware PC Co-Chair
-- 2013	ESEM PC member
-- 2011	SCORE PC member
+- 2027  PC Co-chair: ICSE Doctoral Symposium
+        PC member: ICSE
+- 2026  PC Co-chair: MSR data and tool showcase
+        PC member: ICSE, FSE
+- 2025  PC Co-chair: MSR-FOSS Award
+        PC member: ICSE
+- 2024  PC Co-Chair: ASE, MSR-FOSS Award
+        PC member: ICSE 
+- 2023	PC Co-Chair: ICSE-AE, ASE-Tool
+        PC member: ICSE; MSR Award Committee Member
+- 2022	PC member: ESEC/FSE, ESEC/FSE Doctoral Symposium, ICPC, ICSE-NIER, ESEM 
+- 2021	PC Co-Chair: FSE-Industry Track
+        PC member: ESEC/FSE, ICSE-NIER, ICSE-AE, ICPC, MSR, ASE 
+- 2020	PC Co-Chair: SANER
+        PC member: ICSE, MSR, ESEM, ESEC/FSE-V&R, ASE
+- 2019	PC member: ICSE, ASE, ICSE-NIER, ICSME, ESEM, MSR-Awards
+- 2018	PC Co-Chair: ICSME-NIER
+        PC member: ICSE, MSR, ESEM, CHASE, ASE Tool Demo 
+- 2017	PC member: ICSE NIER, MSR, APSEC, CHASE, EASE
+- 2016	PC member: MSR, FSE-VaR, ICSE-Demos, CHASE
+- 2015	PC member: EASE, OpenSym, CHASE
+- 2014	PC Co-Chair: FSE-Demos, Internetware
+        PC member: ESEM, CHASE
+- 2013	PC member: ESEM
+- 2011	PC member: SCORE
 
-Serve editor board for international journals including EMSE, JSS, IST and JSME.
+Serve editor board for international journals including TSE, EMSE, and ASE Journal.
 Reviewer for IEEE Transactions on Software Engineering, ACM Transactions On Software Engineering and Methodology, ACM Computing Surveys, Transactions on Services Computing, etc.
 
 [中国计算机学会CCF开源发展委员会](https://www.ccf.org.cn/kyfzwyh/) 副主任。
-ACM CSOFT主席。
+ACM CSOFT主席 (2023-2025)。
 [木兰开源社区](https://portal.mulanos.cn) TOC成员。
 
 
@@ -74,9 +86,10 @@ Projects
 
 Awards
 ==================
+- First Prize of the Beijing Science and Technology Progress Award
 - 2023 ACM SIGSOFT Distingushied Paper (MSR 2023) 
 - 2022 ACM SIGSOFT Distingushied Paper (ICPC 2022)
-- 2018年获国家杰青项目资助
+- 2018年获国家杰青项目资助 ("开源软件开发")
 - 2015年中创软件人才奖
 - 2015年国家技术发明二等奖
 - 2014年湖南省技术发明一等奖
