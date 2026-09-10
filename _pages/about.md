@@ -39,28 +39,28 @@ Please refer to the [Open Source Software Data Analytics Lab People page](https:
 
 Services
 =====================
-- 2027  PC Co-chair: ICSE Doctoral Symposium
+- 2027  PC Co-chair: ICSE Doctoral Symposium;
         PC member: ICSE
-- 2026  PC Co-chair: MSR data and tool showcase
+- 2026  PC Co-chair: MSR data and tool showcase;
         PC member: ICSE, FSE
-- 2025  PC Co-chair: MSR-FOSS Award
+- 2025  PC Co-chair: MSR-FOSS Award;
         PC member: ICSE
-- 2024  PC Co-Chair: ASE, MSR-FOSS Award
+- 2024  PC Co-Chair: ASE, MSR-FOSS Award;
         PC member: ICSE 
-- 2023	PC Co-Chair: ICSE-AE, ASE-Tool
+- 2023	PC Co-Chair: ICSE-AE, ASE-Tool;
         PC member: ICSE; MSR Award Committee Member
 - 2022	PC member: ESEC/FSE, ESEC/FSE Doctoral Symposium, ICPC, ICSE-NIER, ESEM 
-- 2021	PC Co-Chair: FSE-Industry Track
+- 2021	PC Co-Chair: FSE-Industry Track;
         PC member: ESEC/FSE, ICSE-NIER, ICSE-AE, ICPC, MSR, ASE 
-- 2020	PC Co-Chair: SANER
+- 2020	PC Co-Chair: SANER;
         PC member: ICSE, MSR, ESEM, ESEC/FSE-V&R, ASE
 - 2019	PC member: ICSE, ASE, ICSE-NIER, ICSME, ESEM, MSR-Awards
-- 2018	PC Co-Chair: ICSME-NIER
+- 2018	PC Co-Chair: ICSME-NIER;
         PC member: ICSE, MSR, ESEM, CHASE, ASE Tool Demo 
 - 2017	PC member: ICSE NIER, MSR, APSEC, CHASE, EASE
 - 2016	PC member: MSR, FSE-VaR, ICSE-Demos, CHASE
 - 2015	PC member: EASE, OpenSym, CHASE
-- 2014	PC Co-Chair: FSE-Demos, Internetware
+- 2014	PC Co-Chair: FSE-Demos, Internetware;
         PC member: ESEM, CHASE
 - 2013	PC member: ESEM
 - 2011	PC member: SCORE
