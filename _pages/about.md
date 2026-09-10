@@ -87,7 +87,7 @@ Projects
 
 Awards
 ==================
-- First Prize of the Beijing Science and Technology Progress Award
+- 2024年北京市科技进步一等奖 (1st Prize of the Beijing Science and Technology Progress Award)
 - 2023 ACM SIGSOFT Distingushied Paper (MSR 2023) 
 - 2022 ACM SIGSOFT Distingushied Paper (ICPC 2022)
 - 2018年获国家杰青项目资助 ("开源软件开发")
