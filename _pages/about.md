@@ -40,7 +40,7 @@ Please refer to the [Open Source Software Data Analytics Lab People page](https:
 Services
 =====================
 - 2027  PC Co-chair: ICSE Doctoral Symposium; 
-        PC member: ICSE
+        PC member: ICSE, FSE
 - 2026  PC Co-chair: MSR data and tool showcase; 
         PC member: ICSE, FSE
 - 2025  PC Co-chair: MSR-FOSS Award; 
